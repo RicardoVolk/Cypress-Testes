@@ -1,0 +1,14 @@
+{
+  "name": "cypress-test",
+  "version": "1.0.0",
+  "description": "Automatização de test",
+  "main": "index.js",
+  "scripts": {
+    "test": "npx cypress open"
+  },
+  "author": "Ricardo volk",
+  "license": "ISC",
+  "devDependencies": {
+    "cypress": "^10.6.0"
+  }
+}
